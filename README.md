@@ -4,4 +4,5 @@ This repository contains Markdown-format resumes for early-career consultants cu
 
 These resumes are living documents that evolve as each engineer grows in skill and experience.
 
-## [Jared Pines](jared-pines.md)
+## [Jack Pines - Principal Consultant & Co-founder](jack-pines.md)
+## [Jared Pines - Consultant in Residence](jared-pines.md)
