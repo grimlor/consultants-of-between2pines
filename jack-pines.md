@@ -1,8 +1,7 @@
 # Jack Pines
 | **Contact**                      | **Links**                                     |  |
 |----------------------------------|-----------------------------------------------|--|
-| 📧 Email: [resume@jackpines.info](mailto:resume@jackpines.info)<br>📞 Phone: [407-595-5648](tel:407-595-5648)     | [LinkedIn](https://linkedin.com/in/jackpines)<br>[GitHub](https://github.com/grimlor) | [![LinkedIn QR Code](assets/jack-pines-linkedin.jpg)](https://www.linkedin.com/in/jackpines)
- |
+| 📧 Email: [resume@jackpines.info](mailto:resume@jackpines.info)<br>📞 Phone: [407-595-5648](tel:407-595-5648)     | [LinkedIn](https://linkedin.com/in/jackpines)<br>[GitHub](https://github.com/grimlor) | [![LinkedIn QR Code](assets/jack-pines-linkedin.jpg)](https://www.linkedin.com/in/jackpines) |
 
 Software Engineer with 15+ years of experience delivering scalable batch and streaming data systems and APIs, thriving in environments that value adaptability, learning, and connectedness across teams. Strong ability to self-direct and input solutions that meet both technical and business goals.
 
