@@ -1,0 +1,82 @@
+# Robert Ferguson
+
+## Summary
+
+Jack of All Trades and Master of Several, with 10 years of broad industry experience. With tasks ranging from "Get over a billion data points into a database annually" to "Help the C-Suite automate across their entire business", I'm as comfortable managing a project as I am writing the code for it.
+
+## Accomplishments
+
+### At the Amazon Kuiper Project, I...
+
+- Implemented multithreading in an internal signing tool, increasing throughput by ~150%, 3 days ahead of schedule, with no negative impact to customers.
+
+### At Aquarium Learning, I...
+
+- Designed and wrote the User Role framework, allowing users to self-serve most interactions with the service.
+- Implemented status reporting into our GCP DataFlow Pipeline, reducing incoming customer tickets by ~50%.
+
+### At **UiPath**, I...
+
+- Designed cirriculum for large telecommunications company to automate device provisioning, helping secure an 8-figure annual deal.
+- Maintained a consistent 96% customer satisfaction rate while also increasing average deal renewal size by 16%.
+- Wrote the original Python interaction demo.
+
+### At Efficient Era, I...
+
+- Was promoted for technical excellence and leadership qualities, leading the team on the shift to Python 3.
+- Designed and implemented the Alerts System, alerting customers to problems with their Amazon listings within the business day.
+- Wrote the internal mocking tool for MWS Data, increasing development throughput and reducing impact to customers.
+
+### At The Unversity of Washington, I...
+
+- Helped students taking the Programming Principles course score ~0.7 GP higher than their peers not taking my course.
+
+## Core Compentecies
+
+### Languages & Frameworks
+
+- **Python**      -   Django | FastAPI | Flask | SQLAlchemy
+- **TypeScript**  -   React | Node.JS
+- **C99**         -   pthread | XInput | SDL2
+
+### Infrastructure
+
+AWS | GCP | Azure
+PostgreSQL | Docker
+
+### ...and more!
+
+Cloud Native Applications | Agile Development Methodology | Asynchronous Code | API Development | CLI Tool Development
+
+## Work Experience
+
+| **Position** | **Company** | **Notable Tech** | **Dates** |
+| --- | --- | --- | --- |
+| L5 / Software Engineer | **Amazon Kuiper** (via Moschip) | C, Bash, Embedded systems, AWS | March 2025 - Present |
+| Career Break | ... | ... | August 2023 - March 2025 |
+| Senior Software Engineer | **Aquarium Learning** | Python, TypeScript, React, Flask, GCP | August 2022 - August 2023 |
+| Technical Account Manager | **UiPath** | .NET, SAP, SalesForce, Azure | March 2021 - August 2022 |
+| Sales Engineer | **UiPath** | .NET, SAP, SalesForce, Azure | November 2018 - March 2021 |
+| Lead Backend Software Engineer | **Efficient Era** | Python, Django, AWS | June 2018 - November 2018 |
+| Backend Software Engineer | **Efficient Era** | Python, Django, TypeScript, Angular, AWS | July 2016 - June 2018 |
+| Object-Oriented Programming Tutor / Facilitator | **University of Washington** | N/A | April 2016 - June 2016 |
+
+## Additional Project Highlights
+
+### Amazon Kuiper
+
+Engaged with multiple interdisciplinary teams to get replacement parts signed off and to rocket in time for flight.
+
+### Aquarium Learning
+
+Assisted with multiple customers onboarding and sales cycles as an engineering point of contact.
+Co-architect of backend systems during transition to the "Tidepool" product.
+
+### UiPath
+
+Advised multiple firms for automation projects, saving over 100,000 employee-hours annually for larger customers.
+
+### Efficient Era
+
+Assisted in implementing the MWS reporting life-cycle into our software.
+Helped write the necessary logic to legally abide by GDPR.
