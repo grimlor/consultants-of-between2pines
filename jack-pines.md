@@ -3,125 +3,106 @@
 |----------------------------------|-----------------------------------------------|--|
 | 📧 Email: [resume@jackpines.info](mailto:resume@jackpines.info)<br>📞 Phone: [407-595-5648](tel:407-595-5648)     | [LinkedIn](https://linkedin.com/in/jackpines)<br>[GitHub](https://github.com/grimlor) | [![LinkedIn QR Code](assets/jack-pines-linkedin.jpg)](https://www.linkedin.com/in/jackpines) |
 
-Software Engineer with 15+ years of experience delivering scalable batch and streaming data systems and APIs, thriving in environments that value adaptability, learning, and connectedness across teams. Strong ability to self-direct and input solutions that meet both technical and business goals.
+## SUMMARY
 
-# Accomplishments
+Principal‑level Systems Architect and Consultant specializing in distributed systems, data platforms, and AI‑enabled engineering workflows. Fifteen years of experience designing resilient cloud architectures, modernizing legacy platforms, and building internal tooling that accelerates developer productivity. Known for pragmatic, long‑horizon design, cross‑team influence, and elevating engineering quality across organizations. Blends consulting clarity with deep technical leadership to deliver systems that are scalable, maintainable, and humane.
 
-- At **Cognitiv**, I created and optimized a 60TiB **Spark** processing job to do a nightly load of our **ScyllaDB** backup of the _identity graph_ to **Iceberg** and **ClickHouse**.
+## CORE STRENGTHS
 
-- At **Virtana**:
+*   **Distributed Systems & Data Platforms:** Spark, Iceberg, Flink, ClickHouse, ScyllaDB, Snowflake
+*   **Cloud & Infrastructure:** Azure, AWS, GCP, Kubernetes, Terraform, GitHub Actions, Jenkins
+*   **AI‑Integrated Tooling:** FastMCP, PyTest‑based DQ frameworks, Kusto‑driven insight systems
+*   **Software Architecture:** Reactive systems, event‑driven design, multi‑tenant SaaS, high‑availability services
+*   **Leadership:** Technical strategy, mentoring, delivery management, cross‑team alignment
+*   **Languages:** Python, Java, Scala, C#, Golang
 
-  - I specified and implemented several technologies, including **Snowflake** and **Airflow**, in a data processing solution for their _Cloud Cost Management SaaS product_, leveraging **Timestream**, **Spark**, and **Neptune**.
+## SELECT ACCOMPLISHMENTS
 
-  - Platform owner for the **Spark**\-based processing backend of a _cloud cost management SaaS product_ at Virtana Corp.
+*   **AI‑Integrated Engineering Tools (Microsoft):** Built deterministic FastMCP‑based tooling for VS Code and GitHub Copilot, enabling automated PyTest‑style data quality checks, ADO interactions, and Kusto‑driven investigation workflows.
+*   **60TiB Spark Ingestion Pipeline (Cognitiv):** Designed and optimized nightly ingestion of ScyllaDB identity graph backups into Iceberg and ClickHouse; owned schema evolution and Flink stream integration.
+*   **Cloud Cost SaaS Platform (Virtana):** Architected and led backend/data platform for a multitenant cost analytics product; implemented Snowflake, Airflow, Neptune, and Spark connectors.
+*   **Reactive System Modernization (Lightbend):** Delivered Akka‑based cloud‑native systems achieving 99% uptime and 4× throughput improvements for enterprise clients.
+*   **Microsoft Creative Publishing Modernization:** Led retirement of legacy systems and CDN pipeline overhaul, saving $1.5M/year and enabling public/private asset segregation for government contracts.
 
-- At **Lightbend**, I architected systems using **Akka Platform** with customers that can _maintain 99% uptime, cut operational costs by 40%, and process 4x more data_ than the previous system.
+## PROFESSIONAL EXPERIENCE
 
-- At **Microsoft**:
+**Between2Pines Consulting — Principal Engineer & Technical Lead**
 
-  - I led development and migration to retire legacy CDN & publishing intermediary to publish creatives directly to new CDN infrastructure, saving _$1.5M per year_ during my tenure at Microsoft.
+_Remote | Jan 2025 – Present_
+Clients: Microsoft, Apple, Trinity Life Sciences
 
-  - Responsible for the segregation of public vs private Microsoft store assets, making the _win of the Jedi Contract_ possible.
+*   Lead architecture and delivery across distributed systems, AI‑infra, and data engineering projects.
+*   Mentor junior engineers and establish engineering standards across client teams.
+*   **Microsoft:** Built FastMCP tooling integrated with GitHub Copilot; developed ADO automation and Kusto‑based DQ insight assistants; proposed hybrid deterministic prompting strategies.
+*   **Trinity:** Designed Python‑based reconciliation pipeline reducing quarterly close from two weeks to hours; built robust ingestion, normalization, and exception‑reporting workflows.
+*   **Apple:** Improved Spark platform operations; optimized HDFS↔S3 data copy processes; added operational metrics for Spark job queue health.
 
-# Core Competencies
+**Cognitiv — Senior Software Engineer**
 
-### Data Streaming & Processing
+_Remote | Mar 2024 – Sep 2024_
 
-Azure Databricks | Apache Spark | Apache Kafka | Apache Flink | Apache Airflow
+*   Optimized 60TiB Spark ingestion pipeline for ScyllaDB backups into Iceberg and ClickHouse.
+*   Owned schema design, Flink ingestion, and Airflow orchestration for AI‑critical warehouse data.
+*   Improved observability and built introspection tooling for data science teams.
 
-### Data Storage Technologies
+**Virtana Corp — Staff Software Engineer**
 
-Snowflake | AWS Redshift Spectrum | Apache Iceberg | AWS Neptune | AWS RDS using PostgreSQL | AWS Timestream | ClickHouse | MSSQL | MySql | CosmosDB | ScyllaDB | Cassandra
+_Remote | Jul 2022 – Feb 2024_
 
-### Infrastructure
+*   Platform lead for Spark‑powered backend of Cloud Cost Management SaaS.
+*   Implemented unified data layer with Snowflake and Neptune connectors; introduced Airflow for orchestration.
+*   Championed BDD practices and mentored engineers on architecture and delivery.
 
-Kubernetes | GitLab CI/CD | JKCfg | Terraform/grunt | AWS | Azure | GCP | Github Actions | Jenkins | TFS | Github |Gitlab
+**Lightbend — Senior Consultant / Senior Solutions Architect**
 
-### Quality
+_Remote | Feb 2021 – Jul 2022_
 
-Behavior Driven Development | Test Driven Development | IOC/DI | Jupiter/Junit | Pytest-bdd | Ginko/Gomega
+*   Guided enterprise clients in adopting reactive system design using Akka and Scala.
+*   Delivered systems achieving 99%+ uptime and major throughput gains.
+*   Supported adoption of Akka Platform and Kalix; contributed to CI/CD and static analysis improvements.
 
-### Languages & Frameworks
+**Apptio — Senior Software Development Engineer**
 
-Python | Java | Scala | C# | JavaScript | Golang | Akka Platform (actor pattern)
+_Bellevue, WA | May 2019 – Jan 2021_
 
-  
+*   Re‑architected version‑control microservices using Kafka and Akka.
+*   Built pub/sub and dynamic workload scaling for multi‑tenant environments.
+*   Specialized in Akka clustering on Kubernetes.
 
-# Professional Work Experience
+**Microsoft — Software Development Engineer II**
 
-| **Position** | **Company** | **Tech Stack** | **Duration** |
-| --- | --- | --- | --- |
-| Founder & Principal Consultant | Between2Pines Consulting | Tech stack: Databricks, Python, Java, Scala, Go, Spark, Airflow, Snowflake, Iceberg,AWS,  Azure, Github | January 2025 - Present |
-| Senior Big Data Software Engineer | Cognitiv | Tech stack: Python, Java, Scala, Spark, Flink, Airflow, Karka, ClickHouse, Iceberg, ScyllaDB, AWS, Terraform, Github Actions, Terraform, Github | March 2024 - September 2024 |
-| Staff Software Engineer | Virtana Corp | Tech stack: Python, Java, Golang, Spark, Kafka, Snowflake, Neptune/TinkerPop, Redshift Spectrum, Parquet, PostgreSQL, Timestream, Airflow, AWS, GCP, Jenkins, Terraform, Github, Gitlab | July 2022 - February 2024 |
-| Senior Solutions Architect/Senior Consultant | Lightbend Inc | Tech stack: Java, Scala, Akka Platform, Kafka, AWS, GCP, Salesforce, Github | February 2021 - July 2022 |
-| Senior Software Development Engineer | Apptio | Tech stack: Java, Scala, Akka Platform, Kafka (Confluent/AWS MSK), AWS, Terraform/grunt, JKCfg, Jenkins, Gitlab | May 2019 - January 2021 |
-| Software Development Engineer II | Microsoft | Tech stack: C# .NET, ASP.NET MVC, MSSQL Server, Azure, TFS | May 2018 - May 2019 |
-| Senior Software Engineer | hitachi vantara | Tech stack: Java, Scala, Akka Platform, Kafka, AWS, Github | November 2017 - May 2018 |
-| Software Developer Engineer II | Microsoft | Tech stack: C# .NET, ASP.NET MVC, JavaScript, JQuery, React.js, Angular.js MSSQL Server, CosmosDB, Azure, TFS | June 2014 - November 2017 |
-| Data Engineer | Google | Tech stack: Python, C# .NET, Java, MySQL, GCP, BigTable | June 2012 - June 2014 |
+_Redmond, WA | May 2018 – May 2019_
 
-# Key Project Highlights
+*   Designed authorization layers enabling gov‑cloud support and private store segmentation.
+*   Built legacy‑to‑modern fulfillment linkage supporting multi‑billion‑dollar contracts.
+*   Contributed to CDN modernization and asset publishing overhaul.
 
-### Between2Pines Consulting
+**Hitachi Vantara — Senior Software Engineer**
 
-**Client: Microsoft** (via Bluprint)  
-- Building quality checks for use in data processing, as unit tests, integration tests, and canaries  
-- Implementing alerting through Application Insights  
+_Bellevue, WA | Nov 2017 – May 2018_
 
-**Client: Trinity Life Sciences** (via Pivotal)  
-- Developed Databricks pipelines, normalizing data from a raw lake to their consumption lake leveraging Iceberg, and into Snowflake for querying and reporting  
-- Worked with business to establish QC rules and notifications  
-- Built Airflow DAGs for orchestrating Databricks, later pivoting to using the native Workflows in Databricks  
+*   Developed risk‑modeling platform for Smart Data Center initiative.
+*   Built ingestion gateways for Azure Log Analytics using Java, Akka, and Spring.
 
-**Client: Apple** (via Intelliswift)  
-- Ops-focused: helping users use internal Spark platform for securely copying data to/from HDFS/S3, debugging user errors and usage gaps, investigating problems by digging into Cassandra and Spark logs  
-- Added metrics for tracking remaining jobs queued for Spark processing  
+**Microsoft — Software Developer Engineer II**
 
-### Cognitiv  
-**ID Graph to Data Warehouse (2024-Q2)**  
-- Created Spark job to load 60TiB **ScyllaDB** backup of graph edges in denormalized format to data warehouse, **Clickhouse**  
-- Updated the schema and **Flink** jobs of all related warehouse tables to include updated graph representation.  
+_Redmond, WA | Jun 2014 – Nov 2017_
 
-### Virtana
-**Cloud Cost Management Data Platform (2022-Q3 – 2024-Q1)**  
-- Identified and established **Apache Airflow** as our workflow solution, including creating design patterns for ease of onboarding new users  
-- Identified and demonstrated **Snowflake** as a more performant alternative to **AWS Redshift Spectrum**  
-- Implemented **Spark** connectors for Snowflake, **AWS Timestream** and **AWS** **Neptune** to support a unifying data layer  
-- Demonstrated the business and development value of BDD testing using **Cucumber** and **pytest-bdd**  
-- Implemented **AWS Lambda** functions written in **Go** for batch processing of data into the streaming pipeline  
+*   Migrated legacy creative publishing systems, saving $1.5M+ annually.
+*   Built services for bulk creative asset generation and ETL frameworks.
+*   Supported datacenter cost‑tracking initiatives.
 
-### Lightbend
-**Senior Consultant / Senior Solutions Architect (2021-Q1 – 2022-Q2)**  
-- Worked with sales reps to educate customers and assist in selling our commercial software and consulting  
-- Architected systems with customers that can maintain 99% uptime, cut operational costs by 40%, and process 4x more data than the previous system  
-- Evangelized new technologies via Meetups, Webinars, and Conference talks  
-- Deals landed included:  
-  - Strategic partnership with Hexaware, an IT sourcing company  
-  - Freedom Financial, building services using **Scala** and **Akka Platform**  
-  - Sketchers, cloud-first transformation using **Akka Platform** in **AWS**  
-  - Intuit, InfoSec lunch-and-learn for **Akka Platform** and the **Actor** pattern  
+**Google — Software Engineer**
 
-### Apptio  
-**Multibox Team (2019-Q2 – 2021-Q1)**  
-- Designed and implemented the collection of multi-tenant services to replace the Version Control feature in the Flagship product. This included:  
-  - a read-only API  
-  - a streaming pub/sub system for writes using **Kafka**  
-  - multiple workers pulling from the stream topics and partitions  
-  - a stream splitter for getting messages back to the initiating tenants  
-  - an orchestrator to scale workers based on stream processing needs  
+_Orlando, FL | Jun 2012 – Jun 2014_
 
-### Microsoft  
-**Universal Store Fulfillment & Licensing (2018-Q2 – 2019-Q2)**  
-- Designed and implemented authorization mechanisms in fulfillment services to sandbox first- and third-party store offerings enabling private clouds. This was key to enabling gov-cloud support for the Jedi Contract  
-- Designed and implemented a mechanism linking next-generation fulfillment service documents to legacy service documents  
+*   Built scalable ingestion tools and e‑commerce feeds post‑acquisition.
+*   Created Python mappers for CSV/XML, C# real‑time services, and AdSense integrations.
+*   Delivered reporting pipelines and Hadoop→MySQL bridging solutions.
 
-**Campaign Publishing Manager** **(2015-Q2 – 2017-Q4)**  
-- Led development and migration to retire legacy CDN & publishing intermediary to publish creatives directly to new CDN infrastructure, saving roughly $1.5M per year  
-- Implemented services and workflow for packaging creatives and publishing to downstream systems  
-- Implemented tag management services in coordination with downstream systems  
+## Earlier Roles
 
-### Google  
-**P&G Rakuten Re-Architecture (2013-Q4)**  
-- Re-architected existing processes to better scale data ingestion processes and implemented them using technology compatible with the Google stack with a Python library  
-- Created as a generic mapper of CSV-to-CSV or XML-to-CSV with support for retrieving the data from an API specified in the configuration  
+**FIS Software — Programmer Analyst** (2012)
+**InCharge Institute — .NET Software Engineer** (2011–2012)
+**Universal American — Web Developer** (2011)
+**Symantec — Sr Support Ops Specialist & Developer** (2000–2011)
