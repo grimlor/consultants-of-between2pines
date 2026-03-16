@@ -1,7 +1,7 @@
 # Jack Pines
 | **Contact**                      | **Links**                                     |  |
 |----------------------------------|-----------------------------------------------|--|
-| 📧 Email: [resume@jackpines.info](mailto:resume@jackpines.info)<br>📞 Phone: [407-595-5648](tel:407-595-5648)     | [LinkedIn](https://linkedin.com/in/jackpines)<br>[GitHub](https://github.com/grimlor) | [![LinkedIn QR Code](assets/jack-pines-linkedin.jpg)](https://www.linkedin.com/in/jackpines) |
+| 📧 Email: [githubresume@jackpines.info](mailto:githubresume@jackpines.info)<br>📞 Phone: [407-595-5648](tel:407-595-5648)     | [LinkedIn](https://linkedin.com/in/jackpines)<br>[GitHub](https://github.com/grimlor) | [![LinkedIn QR Code](assets/jack-pines-linkedin.jpg)](https://www.linkedin.com/in/jackpines) |
 
 ## SUMMARY
 
