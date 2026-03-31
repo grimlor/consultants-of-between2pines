@@ -6,3 +6,4 @@ These resumes are living documents that evolve as each engineer grows in skill a
 
 ## [Jack Pines - Principal Consultant & Co-founder](jack-pines.md)
 ## [Jared Pines - Consultant in Residence](jared-pines.md)
+## [Robert Ferguson - Mentor & Consultant in Residence](robert-ferguson.md)
